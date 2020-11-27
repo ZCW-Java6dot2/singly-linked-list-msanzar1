@@ -22,10 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f0c6f35-1ac5-49ea-b41e-20445c07c5c6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="4f0c6f35-1ac5-49ea-b41e-20445c07c5c6" name="Default" comment="hello">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +58,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
@@ -187,6 +184,14 @@
       <option name="presentableId" value="Default" />
       <updated>1515621994762</updated>
     </task>
+    <task id="LOCAL-00001" summary="hello">
+      <created>1606517591269</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606517591269</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -199,5 +204,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hello" />
+    <option name="LAST_COMMIT_MESSAGE" value="hello" />
   </component>
 </project>
